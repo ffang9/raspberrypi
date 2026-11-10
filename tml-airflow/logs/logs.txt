@@ -12479,3 +12479,5 @@ Login Succeeded
 🚀 STARTING 4-STEP OPTIMIZATION FOR: ffang9/myawesometmlsolutionml-a5b6-ml-amd64-tmlworking
 =============================================================
 322ae4df75189626e5ad73c0c01d00789bad7d335e1ee9299f5cb9a823a8315f
+Error response from daemon: failed to export layer: CreateDiff: mount callback failed on /var/lib/desktop-containerd/daemon/tmpmounts/containerd-mount3410144716: mount callback failed on /var/lib/desktop-containerd/daemon/tmpmounts/containerd-mount2749803532: failed to commit: rename /var/lib/desktop-containerd/daemon/io.containerd.content.v1.content/ingest/390ba69e9c95b333aeb36a2bac1029c6d29ab215d09a2bcb560b2a4dccc6312f/data /var/lib/desktop-containerd/daemon/io.containerd.content.v1.content/blobs/sha256/d88c3737704110a71d20160ea87460109fb99f7ee97a452ecd68741b0ffa4031: no such file or directory
+[ERROR] Docker commit structural assembly mapping failed.
