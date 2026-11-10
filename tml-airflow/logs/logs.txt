@@ -12359,3 +12359,5 @@ origin	https://<personal access token hidden>@github.com/ffang9/raspberrypi.git 
 fc02aef069597ab08a645892232fa36aaee352bd27ffbc4616f6707369159063
 Error response from daemon: failed to export layer: CreateDiff: mount callback failed on /var/lib/desktop-containerd/daemon/tmpmounts/containerd-mount3621607242: mount callback failed on /var/lib/desktop-containerd/daemon/tmpmounts/containerd-mount1739628279: failed to commit: rename /var/lib/desktop-containerd/daemon/io.containerd.content.v1.content/ingest/867f3b3b9674f2f8d52f8b0ce77653101cbff9fb2b77a74c62835bfbe55d1655/data /var/lib/desktop-containerd/daemon/io.containerd.content.v1.content/blobs/sha256/e1509359a0eb5d4c6431811c0cfa093cfa94a697f0d4d400dc1d2962960b9ec4: no such file or directory
 [ERROR] Docker commit structural assembly mapping failed.
+[INFO 2026-11-10_04:39:47] Localfile producing DAG in tml_read_LOCALFILE_step_3_kafka_producetotopic_dag-myawesometmlsolutionml-a5b6.py
+[INFO 2026-11-10_04:39:47] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-myawesometmlsolutionml-a5b6.py
