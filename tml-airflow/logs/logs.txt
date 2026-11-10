@@ -12612,3 +12612,4 @@ Error response from daemon: failed to export layer: CreateDiff: mount callback f
 🚀 STARTING 4-STEP OPTIMIZATION FOR: ffang9/myawesometmlsolutionml-a5b6-ml-amd64-tmlworking
 =============================================================
 f51fc9cd4130f327bea4f2b487273a17595aa68af4c858393cea33e162407913
+[INFO 2026-11-10_05:10:57] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-a5b6-ml/docs/source/index.rst
