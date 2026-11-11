@@ -12639,3 +12639,5 @@ origin	https://<personal access token hidden>@github.com/ffang9/raspberrypi.git 
 🚀 STARTING 4-STEP OPTIMIZATION FOR: ffang9/myawesometmlsolutionml-a5b6-ml-amd64-tmlworking
 =============================================================
 5cbd9d25dff75339c670350bd5c5e3a00c01fe9f73abdb773fadde4db91be6e7
+Error response from daemon: failed to export layer: CreateDiff: mount callback failed on /var/lib/desktop-containerd/daemon/tmpmounts/containerd-mount1171245371: mount callback failed on /var/lib/desktop-containerd/daemon/tmpmounts/containerd-mount2350953687: failed to commit: rename /var/lib/desktop-containerd/daemon/io.containerd.content.v1.content/ingest/756f1670bf9a35eb547c97ce4e968202ea731b1468c2dad7ecd99bdf5c60f3f9/data /var/lib/desktop-containerd/daemon/io.containerd.content.v1.content/blobs/sha256/61f17b6d84e69abf593114a713ee91f4c94745875edf6629e89703af3f52355f: no such file or directory
+[ERROR] Docker commit structural assembly mapping failed.
