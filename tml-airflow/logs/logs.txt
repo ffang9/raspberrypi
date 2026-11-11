@@ -12765,3 +12765,4 @@ Login Succeeded
 [INFO 2026-11-11_03:03:56] Localfile producing DAG in tml_read_LOCALFILE_step_3_kafka_producetotopic_dag-myawesometmlsolutionml-a5b6.py
 [INFO 2026-11-11_03:03:59] Predictions DAG in tml_system_step_6_kafka_predictions_dag-myawesometmlsolutionml-a5b6.py
 [INFO 2026-11-11_03:03:59] Machine Learning DAG in tml_system_step_5_kafka_machine_learning_dag-myawesometmlsolutionml-a5b6.py
+[INFO 2026-11-11_03:04:08] Docker DAG in tml_system_step_8_deploy_solution_to_docker_dag-myawesometmlsolutionml-a5b6.py
