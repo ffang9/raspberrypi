@@ -12761,3 +12761,5 @@ Configure a credential helper to remove this warning. See
 https://docs.docker.com/engine/reference/commandline/login/#credentials-store
 
 Login Succeeded
+[INFO 2026-11-11_03:03:56] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-myawesometmlsolutionml-a5b6.py
+[INFO 2026-11-11_03:03:56] Localfile producing DAG in tml_read_LOCALFILE_step_3_kafka_producetotopic_dag-myawesometmlsolutionml-a5b6.py
