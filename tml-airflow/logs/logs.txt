@@ -12613,3 +12613,20 @@ Error response from daemon: failed to export layer: CreateDiff: mount callback f
 =============================================================
 f51fc9cd4130f327bea4f2b487273a17595aa68af4c858393cea33e162407913
 [INFO 2026-11-10_05:10:57] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-a5b6-ml/docs/source/index.rst
+[INFO 2026-11-11_02:49:31] TML Solution Studio Started: DOCKERUSERNAME=ffang9, GITUSERNAME=ffang9, GITREPOURL=https://github.com/ffang9/raspberrypi.git, AIRFLOWPORT=9000
+[INFO 2026-11-11_02:49:32] TML Solution Studio: Docker Login Status: WARNING! Your password will be stored unencrypted in /root/.docker/config.json.
+Configure a credential helper to remove this warning. See
+https://docs.docker.com/engine/reference/commandline/login/#credentials-store
+
+Login Succeeded
+[INFO 2026-11-11_02:49:32] TML Solution Studio: Github Config Status: core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/ffang9/raspberrypi.git
+remote.origin.fetch=+refs/heads/main:refs/remotes/origin/main
+remote.origin.pushurl=https://<personal access token hidden>@github.com/ffang9/raspberrypi.git
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
+[INFO 2026-11-11_02:49:32] TML Solution Studio: Github Remote Status: origin	https://github.com/ffang9/raspberrypi.git (fetch)
+origin	https://<personal access token hidden>@github.com/ffang9/raspberrypi.git (push)
